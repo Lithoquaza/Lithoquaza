@@ -1,16 +1,13 @@
-## hey
+## 👋 Hi there
 
-```text
-lithoquaza
+I'm **Lithoquaza**. I write C#, TypeScript, Java and C.
 
-c# / typescript / java / c
-react / node.js
-```
+React and Node.js for web projects.
 
-### stack
+## 📚 My Skills
 
-<img src="https://skillicons.dev/icons?i=cs,ts,react,nodejs,java,c&theme=dark" alt="C#, TypeScript, React, Node.js, Java, C" />
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,ts,react,nodejs,java,c&theme=dark" alt="C#, TypeScript, React, Node.js, Java, C" /></a>
 
-### links
+## 📊 My Stats
 
-[![Linktree](https://img.shields.io/badge/linktree-181717?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/Lithoquaza)
+<a href="#"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Lithoquaza&show_icons=true&hide_rank=true&include_all_commits=true&card_width=400" alt="Lithoquaza's GitHub Stats" /></a>
