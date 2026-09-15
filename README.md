@@ -1,12 +1,12 @@
 ## 👋 Hi there
 
-I'm **Lithoquaza**. I write C#, TypeScript, Java and C.
+I'm **Lithoquaza**. C#, TypeScript, Python, Rust, Swift and C.
 
-React and Node.js for web projects.
+React for web projects.
 
 ## 📚 My Skills
 
-<a href="#"><img src="https://skillicons.dev/icons?i=cs,ts,react,nodejs,java,c&theme=dark" alt="C#, TypeScript, React, Node.js, Java, C" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,ts,react,py,rust,swift,c&theme=dark" alt="C#, TypeScript, React, Python, Rust, Swift, C" /></a>
 
 ## 📊 My Stats
 
